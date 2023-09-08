@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Manuel Schneider🧙 and I'm a Software engineer💾 from Switzerland⛰️.</h2>
+<h2 align="left">Hi 👋! My name is Manuel Schneider🧙 and I'm a Software-Wizard💾 from Switzerland⛰️.</h2>
 
 ###
 
